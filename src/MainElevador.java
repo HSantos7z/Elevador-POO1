@@ -4,7 +4,7 @@ public class MainElevador {
 
         // Verificando se a lógica esta correta: subindo com a porta aberta
         meuElevador.abrirPorta();
-        meuElevador.abrirPorta();
+        meuElevador.subir();
 
         // Funcionamento correto: sobe para o andar 1 e 2 respectivos
         meuElevador.fecharPorta();
